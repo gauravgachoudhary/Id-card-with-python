@@ -7,7 +7,7 @@ import random
 import os
 import datetime
 import qrcode
-os.system("title ID CARD Generator by Divesh")
+os.system("title ID CARD Generator by Divesh and Bhargav")
 
 d_date = datetime.datetime.now()
 reg_format_date = d_date.strftime("  %d-%m-%Y\t\t\t\t\t ID CARD Generator\t\t\t\t\t  %I:%M:%S %p")
